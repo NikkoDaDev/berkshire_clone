@@ -1,3 +1,15 @@
-h1{
-	color:green;
+p{
+  text-align: center;
+  color: navy;
+  font-weight: bold;
+  line-height: 20%;
+  font-size: 12px;
+}
+
+.first-letter-headings{
+	font-size: 40px;
+}
+
+.under-heading{
+	font-size: 20px; 
 }
