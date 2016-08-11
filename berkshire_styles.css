@@ -38,3 +38,19 @@ img{
 	justify-content: center;
 	width: 100%;
 }
+
+.insurance-img{
+	text-align: center;	
+}
+
+.insurance-img p {
+	font-size: 10px;
+}
+
+#baseline p{ 
+	text-align: left;
+ }
+#bottom p{
+	text-align: left;
+	font-size: 8px
+}
